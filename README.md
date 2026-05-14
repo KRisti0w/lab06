@@ -222,3 +222,7 @@ jobs:
 8) Репозиторий прошёл все тесты (бейдж об этом в начале отчёта).
 
 [![Packaging](https://github.com/KRisti0w/lab06/actions/workflows/ci.yml/badge.svg)](https://github.com/KRisti0w/lab06/actions/workflows/ci.yml)
+
+## Releases
+
+[![GitHub release](https://img.shields.io/github/v/release/KRisti0w/lab06)](https://github.com/KRisti0w/lab06/releases)

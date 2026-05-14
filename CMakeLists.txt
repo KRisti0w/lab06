@@ -37,3 +37,7 @@ add_executable(check ${TEST_SOURCES})
 endif()
 
 include(CPackConfig.cmake)
+
+add_executable(solver ${CMAKE_CURRENT_SOURCE_DIR}/solver_app/solver.cpp)
+target_link_libraries(solver print)
+install(TARGETS solver RUNTIME DESTINATION bin)
