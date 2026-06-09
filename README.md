@@ -447,6 +447,6 @@ jobs:
 $ git tag v2.4.0
 $ git push origin v2.4.0
 Total 0 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
-To https://github.com/shirmanovak410-ops/lab06
+To https://github.com/KRisti0w/lab06.git
  * [new tag]         v2.4.0 -> v2.4.0
 ```
